@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->pkg update 
+Pkg upgrade
+rm-rf-princearafat
+git clone https://github.com/PRINCE-ARAFAT/PRINCE-ARAFAT.git
+cd PRINCE-ARAFAT
+ls
+python princearafat2.py
